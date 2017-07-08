@@ -5,6 +5,6 @@ int main(void){
 	printf("plus hello");
 	printf("master modify");
 	printf("test modify");
-
+	printf("merge status");
 }
 
