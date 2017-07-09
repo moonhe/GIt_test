@@ -9,6 +9,6 @@ int main(void){
 	printf("modify from git");
         printf("modify from Github");
 	
-	printf("modify for Pull practice");
+	printf("modify for conflict practice");
 }
 
