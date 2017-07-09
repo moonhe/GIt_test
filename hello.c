@@ -8,5 +8,7 @@ int main(void){
 	printf("merge status");
 	printf("modify from git");
         printf("modify from Github");
+	
+	printf("modify for Pull practice");
 }
 
