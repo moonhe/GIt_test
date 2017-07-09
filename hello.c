@@ -7,5 +7,6 @@ int main(void){
 	printf("test modify");
 	printf("merge status");
 	printf("modify from git");
+        printf("modify from Github");
 }
 
