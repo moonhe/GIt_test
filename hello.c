@@ -9,6 +9,4 @@ int main(void){
 	printf("modify from git");
         printf("modify from Github");
 	
-
 }
-
