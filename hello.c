@@ -3,10 +3,10 @@
 int main(void){
 	printf("hello");
 	printf("plus hello");
-	printf("master modify");
+	printf("naji modify");
 	printf("test modify");
 	printf("merge status");
 	printf("modify from git");
-        printf("modify from Github");
-	
+	printf("modify from Github");
+
 }
