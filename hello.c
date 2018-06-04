@@ -3,7 +3,7 @@
 int main(void){
 	printf("hello");
 	printf("plus hello");
-	printf("master modify");
+	printf("moonhe modify");
 	printf("test modify");
 	printf("merge status");
 	printf("modify from git");
